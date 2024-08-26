@@ -11,5 +11,5 @@
 
 ## Screenshots
 
-![Screenshot 2024-08-25 205659](https://github.com/user-attachments/assets/0030f683-7162-41cf-ac6c-f6a29b78fdd7)
-![Screenshot 2](https://github.com/user-attachments/assets/761f6482-9d5a-44ed-b425-c2baca0a387f)
+![WhatsApp Image 2024-08-26 at 01 13 44](https://github.com/user-attachments/assets/bd53e2e2-d299-458f-8333-9aace785e2be)
+![WhatsApp Image 2024-08-26 at 01 13 43](https://github.com/user-attachments/assets/cc23f362-bc3d-4ac9-befb-bd5677e3d936)
